@@ -1,4 +1,4 @@
-# Flipkart Mobile Search Automation Project
+# Flipkart Mobile Automation Project
 
 This project is developed using C# with Selenium WebDriver in Visual Studio 2022. The main objective of the project is to automate the process of searching for mobile phones on the Flipkart website, sorting the results from low to high price, selecting a mobile, and adding it to the cart. The project follows the Page Object Model (POM) design pattern and includes validation for each page.
 
